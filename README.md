@@ -19,7 +19,6 @@ Utilize VBA scripting to analyze real stock market data for 3 consecutive years(
 ![alt tag](https://github.com/PetraLee2019/The-VBA-of-Wall-Street/blob/master/Images/Multiple%20Year%20Stock%20Data%202015.png?raw=true)
 #### 2016 Stock Market Analysis Screenshot:
 ![alt tag](https://github.com/PetraLee2019/The-VBA-of-Wall-Street/blob/master/Images/Multiple%20Year%20Stock%20Data%202016.png?raw=true)
-
 ## Tips
 - Use the sheet alphabetical_testing.xlsx while developing your code. This dataset is smaller and will allow you
 to test faster. Make sure that the script acts the same on each sheet. 

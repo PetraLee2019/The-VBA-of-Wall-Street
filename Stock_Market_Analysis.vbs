@@ -83,7 +83,7 @@ Sub StockMarketAnalysis():
                     ws.Range("J" & SummaryTableRow).Interior.ColorIndex = 3
                 End If
             
-                ' Add One To The Summary Table Row
+                ' Add One To The Summary Table Roww  
                 SummaryTableRow = SummaryTableRow + 1
                 PreviousAmount = i + 1
                 End If
@@ -91,7 +91,7 @@ Sub StockMarketAnalysis():
 
 ' ### Hard ###
 
-            ' Greatest % Increase, Greatest % Decrease and Greatest Total Volume
+            ' Greatest % Increase, Greatest % Decrease and Greatest Total Volume 
             LastRow = ws.Cells(Rows.Count, 11).End(xlUp).Row
         
             ' Start Loop For Final Results
