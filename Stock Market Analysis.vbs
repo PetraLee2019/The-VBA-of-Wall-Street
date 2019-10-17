@@ -1,4 +1,4 @@
-' Unit 2 | Assignment - The VBA of Wall Street
+The VBA of Wall Street
 Sub StockMarketAnalysis():
 
     ' Loop / Iterate Through All Worksheets
@@ -41,10 +41,10 @@ Sub StockMarketAnalysis():
         
         For i = 2 To LastRow
 
-            ' Add To Ticker Total Volume
-            TotalTickerVolume = TotalTickerVolume + ws.Cells(i, 7).Value
-            ' Check If We Are Still Within The Same Ticker Name If It Is Not...
-            If ws.Cells(i + 1, 1).Value <> ws.Cells(i, 1).Value Then
+        ' Add To Ticker Total Volume
+        TotalTickerVolume = TotalTickerVolume + ws.Cells(i, 7).Value
+        ' Check If We Are Still Within The Same Ticker Name If It Is Not...
+        If ws.Cells(i + 1, 1).Value <> ws.Cells(i, 1).Value Then
 
 ' ### Easy ###
 
