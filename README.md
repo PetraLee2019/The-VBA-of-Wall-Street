@@ -1,6 +1,6 @@
 # The VBA of Wall Street
 ## Background
-- Utilize VBA scripting to analyze real stock market data for 3 consecutive years (2014 - 2016). 
+Utilize VBA scripting to analyze real stock market data for 3 consecutive years(2014 - 2016). 
 ### Challenge - Easy:
 - Create a script that will loop through each year of stock data and grab the total amount of volume each stock had over the year.
 - Display the ticker symbol to coincide with the total volume.
@@ -14,15 +14,15 @@
 - The solution will also be able to locate the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
 - Make the appropriate adjustments to the script that will allow it to run on every worksheet just by running it once. 
 #### 2014 Stock Market Analysis Screenshot:
-![alt tag](https://github.com/PetraLee2019/The-VBA-of-Wall-Street/blob/master/Multiple%20Year%20Stock%20Data%202014.png?raw=true)
+![alt tag](https://github.com/PetraLee2019/The-VBA-of-Wall-Street/blob/master/Images/Multiple%20Year%20Stock%20Data%202014.png?raw=true)
 #### 2015 Stock Market Analysis Screenshot:
-![alt tag](https://github.com/PetraLee2019/The-VBA-of-Wall-Street/blob/master/Multiple%20Year%20Stock%20Data%202015.png?raw=true)
+![alt tag](https://github.com/PetraLee2019/The-VBA-of-Wall-Street/blob/master/Images/Multiple%20Year%20Stock%20Data%202015.png?raw=true)
 #### 2016 Stock Market Analysis Screenshot:
-![alt tag](https://github.com/PetraLee2019/The-VBA-of-Wall-Street/blob/master/Multiple%20Year%20Stock%20Data%202016.png?raw=true)
+![alt tag](https://github.com/PetraLee2019/The-VBA-of-Wall-Street/blob/master/Images/Multiple%20Year%20Stock%20Data%202016.png?raw=true)
 
 ## Tips
 - Use the sheet alphabetical_testing.xlsx while developing your code. This dataset is smaller and will allow you
 to test faster. Make sure that the script acts the same on each sheet. 
 - Make the appropriate adjustments to your script that will allow it to run on every worksheet just by running it once. 
 - This can be applied to any of the difficulties and VBA is to take the tediousness out of repetitive task and run over and over again with a click of the button.
-![alt tag](https://github.com/PetraLee2019/The-VBA-of-Wall-Street/blob/master/Stock%20Market.jpg?raw=true)
+![alt tag](https://github.com/PetraLee2019/The-VBA-of-Wall-Street/blob/master/Images/Stock%20Market.jpg?raw=true)
